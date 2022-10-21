@@ -1,0 +1,54 @@
+body{
+   background-image: url('./img/background.gif');
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+   align-content: middle;
+   font-family: "Times New Roman", Times, serif;
+}
+#Whole{
+	margin-top: 100px;
+	background-color: white;
+	margin-left: 370px;
+	margin-right: 370px;
+	background-color: lightgray;
+	border-radius: 16%;
+}
+h1{
+	font-family: sans-serif;
+}
+#Number{
+	color: black;
+	font-size: 43px;
+	font-weight: bolder;
+}
+#incr-btn{
+	padding: 1%;
+	width: 180px;
+	margin-bottom: 20px;
+	color: white;
+	border-radius: 4%;
+	font-weight: bold;
+	background-color: #391306;
+	border-style: none;
+}
+#save-btn{
+	padding: 1%;
+	width: 180px;
+	border-radius: 4%;
+	font-weight: bold;
+	margin-bottom: 20px;
+	background-color: #391306;
+	color: white;
+}
+#check{
+	font-weight: bolder;
+	font-size: 40px;
+	width:  400px;
+    margin-left: 110px;
+	border-radius: 4%;
+	max-width: 400px;
+	margin-top: -1px;
+
+
+}
